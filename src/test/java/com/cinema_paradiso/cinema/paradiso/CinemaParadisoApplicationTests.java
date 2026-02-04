@@ -1,0 +1,13 @@
+package com.cinema_paradiso.cinema.paradiso;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CinemaParadisoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
