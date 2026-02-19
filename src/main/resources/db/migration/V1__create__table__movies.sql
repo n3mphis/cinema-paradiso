@@ -6,5 +6,6 @@ CREATE TABLE movies
     director        VARCHAR(255),
     release_year    INT,
     runtime_minutes INT,
-    plot            TEXT
+    plot            TEXT,
+    genero          VARCHAR(50)
 );
